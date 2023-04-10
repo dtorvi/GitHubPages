@@ -1,2 +1,3 @@
 # GitHubPages
-Lab 1 repository
+Devika Torvi's user page
+My favorite programming language is Python
