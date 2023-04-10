@@ -56,8 +56,8 @@ Here is a snippet of code that outputs the most optimal alignment of two DNA str
 
 ## Goals For the Quarter
 
-- [] Get a full time job
-- [] Learn to cook ten new meals
+- [ ] Get a full time job
+- [ ] Learn to cook ten new meals
 - [X] Work on an independent programming project 
 
 Link to the Beginning:
